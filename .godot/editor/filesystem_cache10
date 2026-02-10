@@ -1,0 +1,38 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1770728382
+BCO.d656d20c-6b8a-4242-9b0a-b8a30837ac26.png::CompressedTexture2D::7846973661151967878::1770293392::1770293393::1::::<><><>0<>0<>896fcbc24a5d0a3eb12bb1136b0b4924<>res://.godot/imported/BCO.d656d20c-6b8a-4242-9b0a-b8a30837ac26.png-68552d90cd1318afb2f47896230f3808.ctex::
+character_body_2d.gd::GDScript::7798703942428892938::1770668789::0::1::::<>CharacterBody2D<><>0<>0<><>::
+icon.svg::CompressedTexture2D::3528731854051291433::1770293165::1770293188::1::::<><><>0<>0<>024982268312e28acb7fb3173251fec3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+node_2d.tscn::PackedScene::8075783223758207785::1770667584::0::1::::<><><>0<>0<><>::
+Sprite1.png::CompressedTexture2D::837241341155228703::1770295863::1770295865::1::::<><><>0<>0<>e5652965a73bc56c3558de16571667e3<>res://.godot/imported/Sprite1.png-ba87f2dea183b3f496827ead15eb35f7.ctex::
+Sprite2.png::CompressedTexture2D::5236568418169086025::1770295863::1770295865::1::::<><><>0<>0<>6c20183790b1a9560ee0687b9875736a<>res://.godot/imported/Sprite2.png-aaf2f47b44a9289437fe46fda33f9149.ctex::
+Sprite3.png::CompressedTexture2D::8066263247390159448::1770295863::1770295865::1::::<><><>0<>0<>8d031e776935a552364004dce321233a<>res://.godot/imported/Sprite3.png-5aedaf9c080575ac681af699f32a0076.ctex::
+Sprite4.png::CompressedTexture2D::1979028486276324193::1770295863::1770295865::1::::<><><>0<>0<>205e6278d949769ed0e13a25a312486d<>res://.godot/imported/Sprite4.png-ba4be9167783c0121b2f377cf21b39ce.ctex::
+Sprite5.png::CompressedTexture2D::8897628734954100614::1770295863::1770295865::1::::<><><>0<>0<>37ad999aa9c4a8c61b348d4619d54a6f<>res://.godot/imported/Sprite5.png-49af7aeae7a80c3a0a122b0e5005e191.ctex::
+Sprite6.png::CompressedTexture2D::2829610704397509843::1770295863::1770295865::1::::<><><>0<>0<>b0d4067d36b2944c8a1deb3176bdee0d<>res://.godot/imported/Sprite6.png-2742e3bbdf54c54483f45363177f548c.ctex::
+Sprite7.png::CompressedTexture2D::8940474959425203106::1770295863::1770295865::1::::<><><>0<>0<>ef135149d4ee43a23ab5d7f0120db191<>res://.godot/imported/Sprite7.png-46babe9c161ec19aa4dd0e0917497f0a.ctex::
+Sprite8.png::CompressedTexture2D::3281038368196735300::1770295863::1770295865::1::::<><><>0<>0<>dab10de2f9506ac63c2d00d9e99642cf<>res://.godot/imported/Sprite8.png-fcea0c4c722e96566d48232ef8dcf09d.ctex::
+sprite_2d.gd::GDScript::6228272435379938175::1770667584::0::1::::Room<>Node2D<><>0<>0<><>::
+teste.tscn::PackedScene::7217847324634123194::1770669829::0::1::::<><><>0<>0<><>::uid://csf3jmjwn8b5h::::res://Assets/Prototype_Character/16x32/16x32 All Animations.png
+::res://Assets/::1770296745
+::res://Assets/Extra/::1770296749
+static_shadow.png::CompressedTexture2D::5199214868468899553::1770296745::1770296749::1::::<><><>0<>0<>8a26115d8faaf2b5ec01342ead388109<>res://.godot/imported/static_shadow.png-5c152cb4f190dc5eb608a584c4a9549c.ctex::
+::res://Assets/Prototype_Character/::1770297056
+prototype_character.png::CompressedTexture2D::8319893772241618503::1770296745::1770296750::1::::<><><>0<>0<>3f2730c98fc5ede5ed738e7b8216b1eb<>res://.godot/imported/prototype_character.png-d26515057769df9f4a6ed3cd334f4482.ctex::
+prototype_character_blue.png::CompressedTexture2D::5870847681561950393::1770296745::1770296750::1::::<><><>0<>0<>97b0414d99d5ca28c75a652f720b9659<>res://.godot/imported/prototype_character_blue.png-483afaf8671d7edc93405258e8faabdf.ctex::
+prototype_character_green.png::CompressedTexture2D::8100608528892196228::1770296746::1770296750::1::::<><><>0<>0<>c3127d65f238453c1fb1bf05e746535e<>res://.godot/imported/prototype_character_green.png-4cdf952e7f5e989fdaf23aa1dfa6106d.ctex::
+prototype_character_red.png::CompressedTexture2D::6235391183237548762::1770296746::1770296750::1::::<><><>0<>0<>7d5dfb03fa09d3ca07c08616837c9783<>res://.godot/imported/prototype_character_red.png-0af4823a8402eb931767f2062cc0e04f.ctex::
+prototype_character_shadow.png::CompressedTexture2D::2401007765179344582::1770296746::1770296750::1::::<><><>0<>0<>7a64fd661e497ac56a45f2713bb7937e<>res://.godot/imported/prototype_character_shadow.png-28000480fec3fafa05c2400878ca8e42.ctex::
+prototype_character_yellow.png::CompressedTexture2D::6018783145271961557::1770296746::1770296749::1::::<><><>0<>0<>8edb28d797ab6bcb82088e3dfe8be658<>res://.godot/imported/prototype_character_yellow.png-9476f2ba7d76914f0539d0abe0de82f3.ctex::
+::res://Assets/Prototype_Character/16x32/::1770297057
+16x32 All Animations.png::CompressedTexture2D::6048279234785381343::1770297056::1770297057::1::::<><><>0<>0<>a8b7ff41fafe059fb1ddc569b8031832<>res://.godot/imported/16x32 All Animations.png-2bef48a9167e9f20d235b5cb7cab671f.ctex::
+16x32 Idle-Sheet.png::CompressedTexture2D::6531616653883228287::1770297056::1770297057::1::::<><><>0<>0<>dcfb68cab109e8567fcf5db1dfe5c702<>res://.godot/imported/16x32 Idle-Sheet.png-984c9aa7156f3937d6753ae1359b594d.ctex::
+16x32 Interact-Sheet.png::CompressedTexture2D::28405727225652702::1770297056::1770297057::1::::<><><>0<>0<>f1bd0359db1816f6c7caf9dec40f9000<>res://.godot/imported/16x32 Interact-Sheet.png-3b03cbc225ffd9184a2bcad79782fe4e.ctex::
+16x32 Jump-Sheet.png::CompressedTexture2D::6719558376362252409::1770297056::1770297057::1::::<><><>0<>0<>75ca317e4339cd92a838253a4034d55c<>res://.godot/imported/16x32 Jump-Sheet.png-efc189f263f10cee692ee6eedc8953fd.ctex::
+16x32 Rotate-Sheet.png::CompressedTexture2D::3652410623163619963::1770297056::1770297057::1::::<><><>0<>0<>706e2272dc0eb47fc11f117196dbc70f<>res://.godot/imported/16x32 Rotate-Sheet.png-a400cfe2022c7199e31fba695a6e4a68.ctex::
+16x32 Run-Sheet.png::CompressedTexture2D::2693619321742803593::1770297056::1770297057::1::::<><><>0<>0<>f7c380d7dd16937829563d36cbc769db<>res://.godot/imported/16x32 Run-Sheet.png-45cf3ff05d3a64fd1b326752d341707d.ctex::
+16x32 Walk-Sheet.png::CompressedTexture2D::2710378250771931847::1770297056::1770297057::1::::<><><>0<>0<>d79cc04db5d5e7ddf08e5a1e7acd3c3e<>res://.godot/imported/16x32 Walk-Sheet.png-2a0061f26c381d3735a0aa71578d9b85.ctex::
+::res://scenes/::1770678553
+character.tscn::PackedScene::7275763539904028026::1770678553::0::1::::<><><>0<>0<><>::uid://beu6sfco2xool::::res://Assets/Prototype_Character/16x32/16x32 Walk-Sheet.png<>uid://c8bawvsc7hvgb::::res://scenes/scripits/character.gd
+::res://scenes/scripits/::1770678554
+character.gd::GDScript::7091178003592003993::1770678554::0::1::::<>CharacterBody2D<><>0<>0<><>::
