@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://da3m5j41o75ko"]
+
+[ext_resource type="Texture2D" uid="uid://csf3jmjwn8b5h" path="res://Assets/Prototype_Character/16x32/16x32 All Animations.png" id="1_o02vu"]
+
+[node name="Node2D" type="Node2D" unique_id=306511907]
+
+[node name="16x32AllAnimations" type="Sprite2D" parent="." unique_id=1176105294]
+position = Vector2(162, 123)
+texture = ExtResource("1_o02vu")
